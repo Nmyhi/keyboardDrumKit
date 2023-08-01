@@ -1,9 +1,12 @@
-html {
+#container {
   font-size: 10px;
   background: url("../images/background.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: 0;
+  padding: 0 100px 0 100px;
+
 }
 
 body,html {
